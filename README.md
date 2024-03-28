@@ -22,6 +22,7 @@
 <a href="https://fb.com/tudor sîngerean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tudor sîngerean" height="30" width="40" /></a>
 <a href="https://instagram.com/tudor.singerean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tudor.singerean" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tudorsingerean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tudorsingerean" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/s1ng3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="s1ng3" height="30" width="40" /></a>
 <a href="https://discord.gg/s1ng3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="s1ng3" height="30" width="40" /></a>
 </p>
 
