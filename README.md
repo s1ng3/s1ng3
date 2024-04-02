@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/tudor-cristian-singerean/](https://www.linkedin.com/in/tudor-cristian-singerean/)
 
-- 📫 How to reach me **tudor.singerean@yahoo.com**
+- 📫 How to reach me: **tudor.singerean@yahoo.com**
 
 - 🔭 I’m currently working on **SoBuddy: https://github.com/s1ng3/SoBuddy**
 
