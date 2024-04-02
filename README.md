@@ -13,8 +13,7 @@
 
 - 📫 How to reach me **tudor.singerean@yahoo.com**
 
-- 🔭 I’m currently working on **developing SoBuddy: your ultimate app for connecting with friends and meeting new people nearby. Discover, chat, and make meaningful connections effortlessly.
-  https://github.com/s1ng3/SoBuddy**
+- 🔭 I’m currently working on **SoBuddy: https://github.com/s1ng3/SoBuddy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
