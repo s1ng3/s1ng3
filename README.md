@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tudorsingerean_" target="blank"><img src="https://img.shields.io/twitter/follow/tudorsingerean_?logo=twitter&style=for-the-badge" alt="tudorsingerean_" /></a> </p>
 
-- 🌱 I’m currently improving on **Python & C++**
+- 🌱 I’m currently improving on **Python & Rust**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/tudor-cristian-singerean/](https://www.linkedin.com/in/tudor-cristian-singerean/)
 
